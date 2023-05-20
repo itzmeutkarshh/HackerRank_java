@@ -1,7 +1,3 @@
-#enter ur code here
-
-
-
 
 class Result {
     Scanner in = new Scanner(System.in);
